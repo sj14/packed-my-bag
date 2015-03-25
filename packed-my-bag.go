@@ -61,7 +61,7 @@ func main() {
 				answered = false
 				fmt.Printf("Wrong, your said %s but %s was correct.\n", input, bag[key])
 				fmt.Printf("Player %d lost the game!\n\n", player)
-				fmt.Printf("Content of the bag:\n")
+				fmt.Printf("Contents of the bag:\n")
 
 				for key := range bag {
 					fmt.Printf("%d: %s\n", key+1, bag[key])
