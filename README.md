@@ -52,7 +52,7 @@ Remember Object 2:
 Wrong, your said Glasses but Towel was correct.
 Player 2 lost the game!
 
-Content of the bag:
+Contents of the bag:
 1: Shirt
 2: Towel
 3: Glasses
